@@ -13,7 +13,7 @@ package com.claro.WSLigaCampeones.util.configuracion;
 
 public class Constantes {
 	
-	public static final String RUTA_ARCHIVO_PROPIEDADES = "/applications/config/EAF/CO_Claro_IntCus_EAF_Domain_PR/config/WSLigaCampeones/WSLigaCampeones.properties";
+	public static final String RUTA_ARCHIVO_PROPIEDADES = "/home/camilo/openshift/crc-linux-2.10.2-amd64/ligaCampeones-Servicios/WSLigaCampeones/WSLigaCampeones/WSLigaCampeones.properties";
 
 //	public static final String RUTA_ARCHIVO_PROPIEDADES = "C:/applications/config/EAF/CO_Claro_IntCusOper_EAF_Domain_PR/config/WSLigaCampeones/WSLigaCampeones1.properties";
 	public static final String APLICACION = "WSLigaCampeones";

@@ -1,0 +1,42 @@
+24/11/2022.00:00:01 Inicia aplicacion eliminar logs registro tabla ***************************
+[2022-11-24 00:00:04] [ INFO ] [BiometriaDAO:53] --------- INICIO CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+[2022-11-24 00:00:05] [ INFO ] [BiometriaDAO:56] *** DIAS:180
+[2022-11-24 00:00:05] [ INFO ] [BiometriaDAO:59] --------- INICIO ELIMINANDO REGISTROS BASE DE DATOS PDB_BIOVOZPRD TABLA TBL_LOGS_BIOMETRIA_VOZ  ---------------
+[2022-11-24 00:01:13] [ INFO ] [BiometriaDAO:69] *** REGISTROS ELIMINADOS:1747810
+[2022-11-24 00:01:13] [ INFO ] [BiometriaDAO:70] --------- FIN ELIMINANDO REGISTROS TABLA TBL_LOGS_BIOMETRIA_VOZ ---------------
+[2022-11-24 00:01:13] [ INFO ] [BiometriaDAO:75] --------- FIN CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+25/11/2022.00:00:01 Inicia aplicacion eliminar logs registro tabla ***************************
+[2022-11-25 00:00:07] [ INFO ] [BiometriaDAO:53] --------- INICIO CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+[2022-11-25 00:00:09] [ INFO ] [BiometriaDAO:56] *** DIAS:180
+[2022-11-25 00:00:09] [ INFO ] [BiometriaDAO:59] --------- INICIO ELIMINANDO REGISTROS BASE DE DATOS PDB_BIOVOZPRD TABLA TBL_LOGS_BIOMETRIA_VOZ  ---------------
+[2022-11-25 00:00:28] [ INFO ] [BiometriaDAO:69] *** REGISTROS ELIMINADOS:27915
+[2022-11-25 00:00:28] [ INFO ] [BiometriaDAO:70] --------- FIN ELIMINANDO REGISTROS TABLA TBL_LOGS_BIOMETRIA_VOZ ---------------
+[2022-11-25 00:00:28] [ INFO ] [BiometriaDAO:75] --------- FIN CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+26/11/2022.00:00:01 Inicia aplicacion eliminar logs registro tabla ***************************
+[2022-11-26 00:00:06] [ INFO ] [BiometriaDAO:53] --------- INICIO CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+[2022-11-26 00:00:07] [ INFO ] [BiometriaDAO:56] *** DIAS:180
+[2022-11-26 00:00:07] [ INFO ] [BiometriaDAO:59] --------- INICIO ELIMINANDO REGISTROS BASE DE DATOS PDB_BIOVOZPRD TABLA TBL_LOGS_BIOMETRIA_VOZ  ---------------
+[2022-11-26 00:00:12] [ INFO ] [BiometriaDAO:69] *** REGISTROS ELIMINADOS:5466
+[2022-11-26 00:00:12] [ INFO ] [BiometriaDAO:70] --------- FIN ELIMINANDO REGISTROS TABLA TBL_LOGS_BIOMETRIA_VOZ ---------------
+[2022-11-26 00:00:12] [ INFO ] [BiometriaDAO:75] --------- FIN CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+27/11/2022.00:00:01 Inicia aplicacion eliminar logs registro tabla ***************************
+[2022-11-27 00:00:05] [ INFO ] [BiometriaDAO:53] --------- INICIO CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+[2022-11-27 00:00:07] [ INFO ] [BiometriaDAO:56] *** DIAS:180
+[2022-11-27 00:00:07] [ INFO ] [BiometriaDAO:59] --------- INICIO ELIMINANDO REGISTROS BASE DE DATOS PDB_BIOVOZPRD TABLA TBL_LOGS_BIOMETRIA_VOZ  ---------------
+[2022-11-27 00:00:12] [ INFO ] [BiometriaDAO:69] *** REGISTROS ELIMINADOS:2429
+[2022-11-27 00:00:12] [ INFO ] [BiometriaDAO:70] --------- FIN ELIMINANDO REGISTROS TABLA TBL_LOGS_BIOMETRIA_VOZ ---------------
+[2022-11-27 00:00:12] [ INFO ] [BiometriaDAO:75] --------- FIN CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+28/11/2022.00:00:01 Inicia aplicacion eliminar logs registro tabla ***************************
+[2022-11-28 00:00:05] [ INFO ] [BiometriaDAO:53] --------- INICIO CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+[2022-11-28 00:00:06] [ INFO ] [BiometriaDAO:56] *** DIAS:180
+[2022-11-28 00:00:06] [ INFO ] [BiometriaDAO:59] --------- INICIO ELIMINANDO REGISTROS BASE DE DATOS PDB_BIOVOZPRD TABLA TBL_LOGS_BIOMETRIA_VOZ  ---------------
+[2022-11-28 00:04:13] [ INFO ] [BiometriaDAO:69] *** REGISTROS ELIMINADOS:30445
+[2022-11-28 00:04:13] [ INFO ] [BiometriaDAO:70] --------- FIN ELIMINANDO REGISTROS TABLA TBL_LOGS_BIOMETRIA_VOZ ---------------
+[2022-11-28 00:04:13] [ INFO ] [BiometriaDAO:75] --------- FIN CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+29/11/2022.00:00:02 Inicia aplicacion eliminar logs registro tabla ***************************
+[2022-11-29 00:00:06] [ INFO ] [BiometriaDAO:53] --------- INICIO CONSULTAR PARAMETRO NUMERO DE DIAS---------------
+[2022-11-29 00:00:08] [ INFO ] [BiometriaDAO:56] *** DIAS:180
+[2022-11-29 00:00:08] [ INFO ] [BiometriaDAO:59] --------- INICIO ELIMINANDO REGISTROS BASE DE DATOS PDB_BIOVOZPRD TABLA TBL_LOGS_BIOMETRIA_VOZ  ---------------
+[2022-11-29 00:00:13] [ INFO ] [BiometriaDAO:69] *** REGISTROS ELIMINADOS:36231
+[2022-11-29 00:00:13] [ INFO ] [BiometriaDAO:70] --------- FIN ELIMINANDO REGISTROS TABLA TBL_LOGS_BIOMETRIA_VOZ ---------------
+[2022-11-29 00:00:13] [ INFO ] [BiometriaDAO:75] --------- FIN CONSULTAR PARAMETRO NUMERO DE DIAS---------------
